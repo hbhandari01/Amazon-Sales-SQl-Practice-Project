@@ -15,7 +15,7 @@ The database mimics an e-commerce platform like Amazon, covering key business op
 
 ## 🎯 Objectives
 
-* Practice **SQL from basic to intermediate level**
+* Practice **SQL from Basic to Intermediate level**
 * Build strong understanding of:
 
   * DDL (Data Definition Language)

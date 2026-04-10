@@ -123,7 +123,7 @@ The project consists of the following tables:
 **Himanshu Bhandari**
 
 * Mechanical Engineer → Data Analyst → Aspiring Data Scientist
-* Skilled in SQL, Data Analysis, Machine Learning, Tableau, PowerBI
+* Skilled in SQL, Data Analysis, Machine Learning, Tableau & PowerBI
 
 ---
 

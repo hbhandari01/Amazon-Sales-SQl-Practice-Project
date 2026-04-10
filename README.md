@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is a **real-world Amazon Sales database simulation** designed to practice and master SQL concepts required for **Data Science roles**.
+This project is a **Real-World Amazon Sales Database Simulation** designed to practice and master SQL concepts required for **Data Science roles**.
 
 The database mimics an e-commerce platform like Amazon, covering key business operations such as:
 

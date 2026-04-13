@@ -54,7 +54,7 @@ The project consists of the following tables:
 
 ---
 
-## 📚 SQL Concepts Covered In the Project
+## 📚 SQL Concepts Covered
 
 ### 🔹 DDL (Data Definition Language)
 

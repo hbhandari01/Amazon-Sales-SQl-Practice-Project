@@ -47,7 +47,7 @@ The project consists of the following tables:
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 * SQL (MySQL)
 * Relational Database Concepts

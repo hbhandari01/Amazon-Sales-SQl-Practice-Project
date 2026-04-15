@@ -104,17 +104,48 @@ The project consists of the following tables:
 
 ---
 
-## 🚀 Future Enhancements
+## 🔥 Advanced SQL (Window Functions)
 
-* Add **advanced SQL queries**:
+Advanced SQL window functions were implemented to perform deeper analytical operations on the Amazon sales dataset.
 
-  * Subqueries
-  * Correlated subqueries
-  * Window functions
-* Create **SQL Views for reporting**
-* Add **index optimization**
-* Connect with **Tableau / Power BI dashboards**
-* Perform **data analysis & visualization**
+### 📊 Key Concepts Covered
+
+* ROW_NUMBER() for unique ranking
+* RANK() and DENSE_RANK() for comparative ranking
+* PARTITION BY for group-wise analysis
+* Running totals for revenue tracking
+* Moving averages for trend analysis
+* LAG() and LEAD() for sequential data comparison
+* NTILE() for customer segmentation
+* PERCENT_RANK() for relative positioning
+
+---
+
+## 📁 Advanced Queries File
+
+All advanced SQL queries are available in the following file:
+
+📄 `Amazon_Sales_db_Advanced_Queries.sql`
+
+---
+
+## 📈 Analytical Capabilities Demonstrated
+
+* Customer ranking and segmentation
+* Revenue trend analysis
+* Order pattern analysis
+* Comparative purchase behavior
+* Time-based analytics
+
+---
+
+## 🚀 Impact
+
+This section demonstrates proficiency in:
+
+* Writing **advanced SQL queries**
+* Performing **analytical computations using window functions**
+* Solving **real-world business problems using SQL**
 
 ---
 

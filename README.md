@@ -118,6 +118,7 @@ Advanced SQL window functions were implemented to perform deeper analytical oper
 * LAG() and LEAD() for sequential data comparison
 * NTILE() for customer segmentation
 * PERCENT_RANK() for relative positioning
+* Customer Growth Analysis
 
 ---
 

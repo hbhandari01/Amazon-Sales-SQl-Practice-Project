@@ -152,10 +152,11 @@ This section demonstrates proficiency in:
 
 ## 👨‍💻 Author
 
-**Himanshu Bhandari**
+Himanshu Bhandari
 
-* Mechanical Engineer → Data Analyst → Aspiring Data Scientist
-* Skilled in SQL, Data Analysis, Machine Learning, Tableau & PowerBI
+Data Analyst & Data Science Enthusiast
+
+
 
 ---
 

@@ -1,4 +1,4 @@
-# 📊 Amazon Sales SQL Practice
+# 📊 Amazon SQL Practices
 
 ## 📌 Project Overview
 
